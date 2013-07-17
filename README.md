@@ -1,2 +1,1 @@
-Hello, Joe!
-GOOD TIMES!
+First Change
